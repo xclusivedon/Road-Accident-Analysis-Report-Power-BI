@@ -9,6 +9,6 @@ This project focuses on analyzing road accident data using Power BI, a powerful 
 
 ## Report View
 
-### 1)Executve Summary
+### 1) Executve Summary -
 
 ![RA Visuals](https://github.com/xclusivedon/Road-Accident-Analysis-Report-Power-BI/assets/80249869/dcfdccf6-40c8-4860-829c-e311838d564f)
